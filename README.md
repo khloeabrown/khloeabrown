@@ -11,7 +11,7 @@
 <p align="justify">You never stop learning they say - especially for web development I say. I know the basics of web design such as <strong>HTML, CSS and basic vanilla JavaScript</strong>. I also love to use <strong>Sass</strong> for my web projects. I use <strong>git and GitHub</strong> to manage my projects and repos. I'm learning (and re-learning): more advanced JS frameworks such as React and Vue, package managers like npm, bundlers like webpack and parcel and much more. I'm not going to stop anytime soon!</p>
 
 ### Extra Bits to Know
-🛠 I'm currently working: on more projects for my online Web Dev 101 classroom and some freelance client work.<br />
-📚 I'm currently leaning: Vue.js to see if it could improve any projects I could make.<br />
+🛠 I'm currently working on: a eCommerce shopping website with another talented developer.<br />
+📚 I'm currently leaning: React.js and Parcel.<br />
 💥 I'm game to talk about: DC comics, especially the 1980-2003 Teen Titans or any of the major universe events.<br />
 📢 You can find me posting random thoughts and updates on <a href="https://twitter.com/khloeabrown" target="_blank">Twitter</a>
