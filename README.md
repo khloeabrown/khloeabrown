@@ -1,6 +1,6 @@
 ### Hello, Hello 👋
 
-<p align="justify">I am <a href="https://khloeabrown.com/" target="_blank">Khloe</a>, a <strong>front-end developer</strong> specializing in MERN stack with an eye for UI and a <strong>graphic designer</strong> creating effective and beautiful logos, brand identities, and marketing media.</p>
+<p align="justify">I am <a href="https://khloeabrown.com/" target="_blank">Khloe</a>, a <strong>front-end developer</strong> learning the MERN stack with an eye for UI and a <strong>graphic designer</strong> creating effective and beautiful logos, brand identities, and marketing media.</p>
 
 <p align="justify">When I'm not working on the cool stuff, I enjoy my time with friends playing video and board games, reading 1980s DC comics, or playing with my bearded dragon Jude.</p>
 
